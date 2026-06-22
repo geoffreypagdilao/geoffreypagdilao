@@ -1,9 +1,10 @@
 # hey, i'm geoffrey 👋
 
 ## about me
-🎓  cs undergrad at SUTD
-🎸  guitarist, cook, and gamer
+🎓 &nbsp; cs undergrad at SUTD <br>
+🤖 &nbsp; building AI & cloud systems in production <br>
+🎸 &nbsp; guitarist, cook, and gamer
 
 ## find me
-💼  linkedin: `linkedin.com/in/geoffreypagdilao`
-📫  email: `geoffreypagdilao@gmail.com`
+💼 &nbsp; linkedin: [linkedin.com/in/geoffreypagdilao](https://linkedin.com/in/geoffreypagdilao) <br>
+📫 &nbsp; email: geoffreypagdilao@gmail.com
