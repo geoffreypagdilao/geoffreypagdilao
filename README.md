@@ -2,7 +2,6 @@
 
 ## about me
 🎓 &nbsp; cs undergrad at SUTD <br>
-🤖 &nbsp; building AI & cloud systems in production <br>
 🎸 &nbsp; guitarist, cook, and gamer
 
 ## find me
